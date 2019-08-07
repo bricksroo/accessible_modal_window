@@ -27,3 +27,7 @@ article > section { border-top: 1px solid;margin-top: 2em;padding-top: 1.5em;}
 h3 span {display: inline-block;font-size: .75em;width: 100%;}
 .callout-test {background: #eee;margin-left: -1.25em;padding: 1.25em;width: calc(100% + 2.5em);}
 .callout-test > *:last-child { margin-bottom: 0; }
+
+/** bricksroo test case styles */
+.btn { display: flex; align-items: center; }
+.btn > svg { fill: #fff; margin-right: 16px; }
